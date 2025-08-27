@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/argoproj/argocd-example-apps
+    repoURL: https://github.com/amurpo/argocd-example-apps
     targetRevision: HEAD
     path: lab-gitops
   destination:
